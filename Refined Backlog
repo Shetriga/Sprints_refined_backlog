@@ -1,0 +1,7 @@
+# The xlsx sheet was not opening so i imagined that my application will be a food delivery app for restaurants
+
+- As a user, i want to be able to order food from the desired restaurant with ease to have a better food experience
+- As a user, i want to find all the restaurants that i order from, in order to keep using the application without getting border
+- As a restaurant owner i want to have access to all interactions to/from my business to have a broad vision and know where to improve
+- As a restaurant owner i want to be able to restrict and give approval for what is listed on our menu, to make sure that we deliver the best foods
+- As a system admin working in a restaurant, i want to have authority to edit, delete or approve orders to avoid incorrect order and spam calls
